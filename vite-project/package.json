@@ -1,0 +1,17 @@
+{
+  "name": "day-16-task",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "vite": "^7.3.0"
+  }
+}
